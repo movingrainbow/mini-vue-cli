@@ -9,3 +9,4 @@ npm run dev
 ```
 npm run build
 ```
+详细请查看[使用webpack配置一个小型vue-cli脚手架](https://segmentfault.com/a/1190000020374978)
